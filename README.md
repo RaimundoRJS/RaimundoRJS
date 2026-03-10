@@ -43,15 +43,19 @@
 </div>
  
  ##
- <div align="center">  
-  <imagem largura="50%" altura="200px" src="https://github-readme-stats-raimundo.vercel.app/api?username=RaimundoRJS&show_icons=true&theme=github_dark&bg_color=161B22&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true"/>
-  <imagem largura="45%" altura="190px" src="https://github-readme-stats-raimundo.vercel.app/api/top-langs/?username=RaimundoRJS&layout=compact&langs_count=6&theme=github_dark&bg_color=161B22&hide_border=true&include_orgs=true&count_private=false"/>
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaimundoRJS&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaimundoRJS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <hr/>  
 <br/>
 <br/>
+###
 
+<img src="https://raw.githubusercontent.com/RaimundoRJS/RaimundoRJS/output/snake.svg" alt="Snake animation" />
+
+###
 
  <div align="center"> 
 <a href="https://www.instagram.com/rjunios" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -83,3 +87,14 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaimundoRJS&bg_color=113136&color=ffffff&line=4c9d9e&point=05e5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@RaimundoRJS/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@RaimundoRJS/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@RaimundoRJS/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@RaimundoRJS/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@RaimundoRJS/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@RaimundoRJS/2" alt="Medium post 3"  />
+  </a>
+</div>
