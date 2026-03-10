@@ -41,13 +41,6 @@
   </p>
  
 </div>
- 
- ##
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaimundoRJS&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaimundoRJS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 <hr/>  
 <br/>
 <br/>
@@ -87,14 +80,3 @@
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@RaimundoRJS/2" alt="Medium post 3"  />
   </a>
 </div>
-
-<img src="https://raw.githubusercontent.com/RaimundoRJS/RaimundoRJS/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=RaimundoRJS&locale=pt-br&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="153" alt="streak graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaimundoRJS&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
