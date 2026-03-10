@@ -34,12 +34,11 @@
 
    _📚 I’m currently learning Java_
 
-   _🌱 I’m currently learning English 🤦‍♂_
-
-   _☕️ I’m coffeer_
+   _🌱 I’m currently learning English 🤦‍♂
 
   </p>
- 
+
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RaimundoRJS&theme=ads-juicy-fresh&hide_border=falso&locale=pt_BR&short_numbers=falso)](https://git.io/streak-stats)
 </div>
 <hr/>  
 <br/>
