@@ -44,8 +44,8 @@
  
  ##
  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RaimundoRJS&show_icons=true&count_private=true&hide_border=true&title_color=1A565F&icon_color=1A565F&text_color=c9d1d9&bg_color=0d1117" alt="Raimundo Júnio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaimundoRJS&layout=compact&hide_border=true&title_color=1A565F&text_color=C9D1D9&bg_color=0d1117" />
+  <imagem largura="50%" altura="200px" src="https://github-readme-stats-rone.vercel.app/api?username=RaimundoRJS&show_icons=true&theme=github_dark&bg_color=161B22&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true"/>
+  <imagem largura="45%" altura="190px" src="https://github-readme-stats-rone.vercel.app/api/top-langs/?username=RaimundoRJS&layout=compact&langs_count=6&theme=github_dark&bg_color=161B22&hide_border=true&include_orgs=true&count_private=false"/>
 </div>
 
 <hr/>  
