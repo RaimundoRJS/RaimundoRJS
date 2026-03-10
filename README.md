@@ -83,14 +83,3 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaimundoRJS&bg_color=113136&color=ffffff&line=4c9d9e&point=05e5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<br/>
-
-<div align="center">
- <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
- 
- <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-
- <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
-</div>
