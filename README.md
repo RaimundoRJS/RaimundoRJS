@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
- <h1>Hello There! <br/> Welcome to Raimundo's GitHub! 🦆👌</h1>
+ <h1>Hello There! <br/> Welcome to Raimundo's GitHub!</h1>
  
  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="100">
 </div>
