@@ -32,7 +32,7 @@
 
    _📚 I’m currently learning Java_
 
-   _🌱 I’m currently learning English 🤦‍♂
+   _🌱 I’m currently learning English
 
   </p>
 
