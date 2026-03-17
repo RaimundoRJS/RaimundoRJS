@@ -17,9 +17,7 @@
  
   <br/>
  
-  I'm a Computer Science student at 
-  <img width="10" src="https://cdn.discordapp.com/attachments/966819730616901752/1043283975558406216/ifs_logo.png"/> Federal Institute of Sergipe
-
+  I'm a Computer Science student
    
 </div>
 
