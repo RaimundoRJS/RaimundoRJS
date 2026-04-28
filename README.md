@@ -64,4 +64,4 @@
 ![Raspberry PI](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)&nbsp;
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaimundoRJS&theme=dracula)](https://github.com/RaimundoRJS/github-readme-activity-graph)
+[![RaimundoRJS github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaimundoRJS&theme=dracula)](https://github.com/RaimundoRJS/github-readme-activity-graph)
